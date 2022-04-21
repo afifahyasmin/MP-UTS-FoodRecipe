@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.afifah.foodrecipe">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FoodRecipe">
+        <activity
+            android:name=".Combro"
+            android:exported="false" />
+        <activity
+            android:name=".NasiLiwet"
+            android:exported="false" />
+        <activity
+            android:name=".surabi"
+            android:exported="false" />
+        <activity
+            android:name=".NasiTutugOncom"
+            android:exported="false" />
+        <activity
+            android:name=".Karedok"
+            android:exported="false" />
+        <activity
+            android:name=".SotoBetawi"
+            android:exported="false" />
+        <activity
+            android:name=".SemurJengkol"
+            android:exported="false" />
+        <activity
+            android:name=".KueRangi"
+            android:exported="false" />
+        <activity
+            android:name=".KerakTelor"
+            android:exported="false" />
+        <activity
+            android:name=".KembangGoyang"
+            android:exported="false" />
+        <activity
+            android:name=".About"
+            android:exported="false" />
+        <activity
+            android:name=".KhasMinang"
+            android:exported="false" />
+        <activity
+            android:name=".KhasJawa"
+            android:exported="false" />
+        <activity
+            android:name=".KhasSunda"
+            android:exported="false" />
+        <activity
+            android:name=".KhasBetawi"
+            android:exported="false" />
+        <activity
+            android:name=".MainMenu"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

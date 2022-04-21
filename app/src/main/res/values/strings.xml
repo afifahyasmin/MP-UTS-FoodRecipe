@@ -1,0 +1,220 @@
+<resources>
+    <string name="app_name">FoodRecipe</string>
+
+    <string name="soto_betawi_sederhana">
+        200 gram daging sapi\n
+        100 gram paru sapi\n
+        100 gram usus sapi\n
+        500 ml air\n
+        \n
+        <b>Bumbu Halus</b>\n
+            15 siung bawang merah\n
+            9 siung bawang putih\n
+            1/2 sdt jintan\n
+            1 ruas jahe\n
+            3 butir kemiri\n
+            1 sdm ketumbar\n
+        \n
+        <b>Bumbu cemplung</b>\n
+            2 ruas lengkuas, pukul babak belur alias geprek\n
+            5 cm kayumanis\n
+            2 buah serai, pukul babak belur juga\n
+            5 buah cengkeh\n
+            5 lembar daun salam\n
+            2 buah daun bawang, iris kasar\n
+            secukupnya Garam\n
+            secukupnya Lada bubuk\n
+            secukupnya Kaldu jamur\n
+            500 ml susu UHT\n
+            2 sachet santan instan (130ml santan instan)\n
+        \n
+        <b>Bahan pelengkap</b>\n
+            Minyak Samin\n
+            Tomat\n
+            Acar\n
+            Emping\n
+            Sambel\n
+            Bawang goreng\n
+    </string>
+
+    <string name="semur_jengkol">
+        250 gram jengkol\n
+        3-4 sdm kecap manis\n
+        secukupnya garam\n
+        secukupnya lada\n
+        secukupnya kaldu bubuk\n
+        secukupnya gula pasir\n
+        secukupnya minyak goreng\n
+        secukupnya air\n
+        \n
+        <b>Bahan Rendaman dan Rebusan Jengkol\n</b>
+            2 batang serai\n
+            4 lembar daun salam\n
+            4 lembar daun jeruk\n
+            1 sdt baking soda\n
+        \n
+        <b>Bahan Bumbu Halus\n</b>
+            7 siung bawang merah\n
+            5 siung bawang putih\n
+            5 butir kemiri (sangrai)\n
+            1/2 ruas jahe\n
+            1/2 buah pala\n
+            1 sdm ketumbar\n
+        \n
+        <b>Bahan Bumbu Cemplung\n</b>
+            1 ruas lengkuas (geprek)\n
+            1 batang kayu manis\n
+    </string>
+
+    <string name="kue_rangi">
+        60 gr Kelapa parut kasar\n
+        75 gr Tepung Tapioka\n
+        40 ml air\n
+        Sedikit garam\n
+        \n
+        <b>Kinca gula merah :\n</b>
+            35 gr Gula pasir\n
+            35 gr gula jawa\n
+            100 ml air\n
+            1 sdt Maizena + sedikit air\n
+            Sedikit garam\n
+    </string>
+
+    <string name="kerak_telor">
+        1 centong nasi atau nasi ketan putih \n
+        2 butir telur ayam atau telur bebek \n
+        2 sdm abon sapi\n
+        2 sdm serundeng (sy buat sendiri)\n
+        secukupnya bawang goreng\n
+        secukupnya gula, garam\n
+        \n
+        <b>Bumbu Halus\n</b>
+            3 siung bawang putih\n
+            3 siung bawang merah\n
+            2 buah cabe rawit merah\n
+        \n
+        <b>Bahan Topping\n</b>
+            Abon, serundeng, bawang goreng\n
+        \n
+        <b>Bumbu Serundeng\n</b>
+            1/4 butir kelapa parut\n
+            1 bh cabe merah besar\n
+            3 siung bawang putih\n
+            1 ruas lengkuas\n
+            1 sdt jinten bubuk\n
+            1/2 sdt garam\n
+            1 sdm gula\n
+    </string>
+
+    <string name="kembang_goyang">
+        100 gr Tepung Beras\n
+        100 gr Tepung Terigu\n
+        50 gr Maizena\n
+        2 butir Telur\n
+        50 gr Gula\n
+        2 bungkus santan bumas ditambahkan air sampai 300 ml\n
+        secukupnya Garam\n
+        secukupnya Vanila\n
+    </string>
+
+    <string name="karedok">
+        100 gr kacang tanah\n
+        50 gr Kacang panjang\n
+        50 gr kol\n
+        Secukupnya Daun kemangi\n
+        Secukupnya Daun salada\n
+        \n
+        <b>Bumbu yg dihaluskan</b>\n
+            10 buah cabe rawit merah hijau\n
+            2 ruas kencur\n
+            Terasi, asam jawa, jeruk limo\n
+            sesuai selera Gula aren, garam\n
+    </string>
+
+    <string name="nasi_tutug_oncom">
+        2 porsi nasi\n
+        Oncom secukupnya (dikit aja, biar keliatan)\n
+        1 siung baput\n
+        2 siung bamer\n
+        Kencur dikit aja (ini aku skip soalnya susah bgt nyari kencur)\n
+        Kemangi (ini aku skip soalnya lg ga ada kemangi)\n
+        secukupnya Garam, lada, gula, kaldu jamur\n
+    </string>
+
+    <string name="surabi">
+        20 sdm tepung beras putih (150 gr)\n
+        4 sdm tepung terigu protein sedang (25gr)\n
+        12 sdm kelapa parut setengah tua (75gr)\n
+        400 cc santan kental\n
+        1 sdt garam\n
+        400 cc air (200cc)\n
+        \n
+        <b>Topping</b>\n
+            Sambal oncom \n
+            8 btr telur \n
+            Kinca durian \n
+            Meises\n
+    </string>
+
+    <string name="nasi_liwet">
+        500g beras, cuci bersih\n
+        900ml air\n
+        200g ikan asin gabus, potong dadu kecil, goreng\n
+        1 papan petai, kupas\n
+        1 sdt Royco Kaldu Ayam\n
+        1 sdt garam\n
+        5 siung bawang putih, iris\n
+        6 butir bawang merah, iris\n
+        4 lembar daun jeruk\n
+        2 lembar daun salam\n
+        2 batang serai, memarkan\n
+        5 buah cabai gendot\n
+        5 buah cabai rawit merah\n
+        1 sdm minyak, untuk menumis\n
+
+        <b>Pelengkap</b>\n
+            lalapan sayura\n
+    </string>
+
+    <string name="combro">
+        1 buah singkong besar (diparut dan peras)\n
+        1/2 butir kelapa (diparut dan pilih kelapa yg agak tua rasanya lebih gurih)\n
+        1 sdt garam (atau menyesuaikan selera)\n
+        daun bawang (iris tipis sekali)\n
+        Minyak untuk menumis dan menggoreng\n
+        \n
+        <b>Isian oncom</b>\n
+            1 papan oncom (haluskan tp tidak terlalu halus)\n
+            5 buah cabai keriting\n
+            10 buah cabai rawit (bisa lbh jika ingin lbh pedas)\n
+            1 ruas kencur\n
+            5 siung bawang merah\n
+            3 siung bawang putih\n
+            Garam (secukupnya)\n
+            Gula (secukupnya)\n
+            Merica bubuk (secukupnya)\n
+            Kaldu jamur (secukupnya)\n
+            Kemangi (optional)\n
+    </string>
+
+    <string name="getuk"></string>
+
+    <string name="gudeg"></string>
+
+    <string name="lumpia"></string>
+
+    <string name="soto_lamongan"></string>
+
+    <string name="rujak_cingur"></string>
+
+    <string name="rendang"></string>
+
+    <string name="dendeng_balado"></string>
+
+    <string name="sate_padang"></string>
+
+    <string name="gulai_itiak"></string>
+
+    <string name="nasi_kapau"></string>
+
+</resources>
